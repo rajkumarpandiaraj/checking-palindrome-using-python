@@ -3,4 +3,4 @@ reversed_string = string[::-1]
 if reversed_string == string :
     print('It is a palindrome')
 else :
-    print('i=It is not a palindrome')
+    print('It is not a palindrome')
